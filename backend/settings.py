@@ -139,7 +139,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://your-netlify-app-url.netlify.app",
+    "https://cerulean-salamander-aaf94f.netlify.app",
 ]
 
 AUTH_USER_MODEL = 'api.CustomUser'
